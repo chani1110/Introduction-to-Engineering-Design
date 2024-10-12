@@ -1,16 +1,7 @@
-# zsmbetatest
+# 이미지 인식 분리배출 어플리케이션
 
-A new Flutter project.
+본 어플리케이션은 이미지에 촬영된 객체를 인식하여 적절한 분리배출 방법을 안내하는 Android 앱입니다. Flutter와 Dart를 사용하여 개발되었습니다.
 
-## Getting Started
+이 앱은 광운대학교 인공지능융합학부의 2024학년도 1학기 공학설계입문 작품전시회에서 우수상을 수상한 바 있습니다.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
